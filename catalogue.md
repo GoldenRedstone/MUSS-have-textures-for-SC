@@ -28,10 +28,7 @@ Capitalisation does not matter.
   (*EliEliO/Elijah Rocks*)
 - Crow
 - Invisible
-
-### Coming soon upon request:
-- Red/Green/Black/ect.
-- Axolotl
+- *Any Minecraft colour*
 
 ### Examples:
 - Golden's Glider
