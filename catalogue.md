@@ -54,10 +54,14 @@ Capitalisation does not matter.
 ## Armour
 - Invisible
   (*Makes any armour piece invisible when worn*)
+- Crown
+  (*Netherite Helmet*)
 
 ## Other
 - Hotguy
   (*Scar's Hotguy Bow*)
+- Sceptre
+  (*Netherite Axe*)
 
 I also make custom currency textures for:
 - Spoons & Co.
