@@ -50,6 +50,9 @@ Capitalisation does not matter.
   (*Scar's HC tophat*)
 - Santa Hat
   (*Prefix any minecraft colour*)
+- Crown
+  (*Ren's HC crown*)
+- Royal Crown
 
 ## Armour
 - Invisible
