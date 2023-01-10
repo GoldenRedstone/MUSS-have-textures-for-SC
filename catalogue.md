@@ -14,6 +14,8 @@ Capitalisation does not matter.
   (*Picket0909*)
 - Zip
   (*ZipnMC/Zipntoit*)
+- Jelly
+  (*Jelly_Fingers*)
 
 ### Examples:
 - GoldenRedstone's Totem
@@ -48,6 +50,8 @@ Capitalisation does not matter.
 ## Hats
 - Scar
   (*Scar's HC tophat*)
+- Small Scar
+  (*Scar's HC tophat - but smaller*)
 - Santa Hat
   (*Prefix any minecraft colour*)
 - Crown
