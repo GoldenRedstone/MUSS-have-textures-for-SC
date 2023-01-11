@@ -56,7 +56,7 @@ Capitalisation does not matter.
   (*Prefix any minecraft colour*)
 - Crown
   (*Ren's HC crown*)
-- Royal Crown
+- Elf Ears
 
 ## Armour
 - Invisible
