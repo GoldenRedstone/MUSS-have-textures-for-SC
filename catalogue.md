@@ -15,7 +15,7 @@ Capitalisation does not matter.
 - Zip
   (*ZipnMC/Zipntoit*)
 - Jelly
-  (*Jelly_Fingers*)
+  (*JellyFingers*)
 
 ### Examples:
 - GoldenRedstone's Totem
@@ -28,6 +28,8 @@ Capitalisation does not matter.
   (*GoldenRedstone*)
 - Eli
   (*EliEliO/Elijah Rocks*)
+- Sean
+  (*SeanTheBandGeek*)
 - Crow
 - Invisible
 - *Any Minecraft colour*
