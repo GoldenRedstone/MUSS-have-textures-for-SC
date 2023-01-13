@@ -71,6 +71,8 @@ Capitalisation does not matter.
   (*Scar's Hotguy Bow*)
 - Sceptre
   (*Netherite Axe*)
+- Baguette
+  (*Netherite Sword*)
 
 I also make custom currency textures for:
 - Spoons & Co.
