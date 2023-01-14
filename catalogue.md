@@ -59,6 +59,8 @@ Capitalisation does not matter.
 - Crown
   (*Ren's HC crown*)
 - Elf Ears
+- Fedora
+  (*Scott's Empires Fedora*)
 
 ## Armour
 - Invisible
