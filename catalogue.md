@@ -30,6 +30,8 @@ Capitalisation does not matter.
   (*EliEliO/Elijah Rocks*)
 - Sean
   (*SeanTheBandGeek*)
+- Kirby
+  (*kirbyfofa768*)
 - Crow
 - Invisible
 - *Any Minecraft colour*
