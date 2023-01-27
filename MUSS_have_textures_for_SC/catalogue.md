@@ -16,6 +16,10 @@ Capitalisation does not matter.
   (*ZipnMC/Zipntoit*)
 - Jelly
   (*JellyFingers*)
+- Oink
+  (*Oink*)
+- Sab
+  (*sablovesmangoes*)
 
 ### Examples:
 - GoldenRedstone's Totem
