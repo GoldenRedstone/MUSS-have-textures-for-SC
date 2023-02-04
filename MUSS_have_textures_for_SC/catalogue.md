@@ -36,6 +36,8 @@ Capitalisation does not matter.
   (*SeanTheBandGeek*)
 - Kirby
   (*kirbyfofa768*)
+- Dark Kirby
+  (*kirbyfofa768*)
 - Crow
 - Invisible
 - *Any Minecraft colour*
@@ -61,12 +63,14 @@ Capitalisation does not matter.
 - Small Scar
   (*Scar's HC tophat - but smaller*)
 - Santa Hat
-  (*Prefix any minecraft colour*)
+  (*Optional: Prefix any minecraft colour*)
 - Crown
   (*Ren's HC crown*)
 - Elf Ears
 - Fedora
   (*Scott's Empires Fedora*)
+- Post
+  (*Postman's Hat*)
 
 ## Armour
 - Invisible
