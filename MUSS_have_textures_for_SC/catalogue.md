@@ -86,6 +86,28 @@ Capitalisation does not matter.
 - Baguette
   (*Netherite Sword*)
 
+## Letters
+- Letter
+- Modern
+- Old
+- Alarm
+- Love
+- Bloody
+- Cash
+- Lucky
+- Death
+- Earth
+- Ender
+- Fox
+- Frog
+- Ghost
+- Mushroom
+- Pumpkin
+- Rainbow
+- Star
+- Trident
+
+
 I also make custom currency textures for:
 - Spoons & Co.
 
