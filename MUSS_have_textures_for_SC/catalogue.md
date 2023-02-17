@@ -73,6 +73,7 @@ Capitalisation does not matter.
   (*Postman's Hat*)
 - *Villager Profession Name*
   (*Villager's Hats*)
+- Scarecrow
 
 ## Armour
 - Invisible
