@@ -71,6 +71,8 @@ Capitalisation does not matter.
   (*Scott's Empires Fedora*)
 - Post
   (*Postman's Hat*)
+- *Villager Profession Name*
+  (*Villager's Hats*)
 
 ## Armour
 - Invisible
