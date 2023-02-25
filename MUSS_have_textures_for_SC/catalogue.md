@@ -20,6 +20,7 @@ Capitalisation does not matter.
   (*Oink*)
 - Sab
   (*sablovesmangoes*)
+- Goldenapple
 
 ### Examples:
 - GoldenRedstone's Totem
@@ -78,8 +79,6 @@ Capitalisation does not matter.
 ## Armour
 - Invisible
   (*Makes any armour piece invisible when worn*)
-- Crown
-  (*Netherite Helmet*)
 
 ## Other
 - Hotguy
