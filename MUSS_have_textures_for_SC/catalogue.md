@@ -39,6 +39,8 @@ Capitalisation does not matter.
   (*kirbyfofa768*)
 - Dark Kirby
   (*kirbyfofa768*)
+- GoldenApple
+- French
 - Crow
 - Invisible
 - *Any Minecraft colour*
