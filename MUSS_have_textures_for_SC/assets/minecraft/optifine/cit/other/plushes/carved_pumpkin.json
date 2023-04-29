@@ -1,0 +1,63 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+    "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/plushiebdubs"}
+    ,{"predicate": {"custom_model_data": 2}, "model": "item/plushiebdubscreate"}
+    ,{"predicate": {"custom_model_data": 3}, "model": "item/plushiebdubstwo"}
+    ,{"predicate": {"custom_model_data": 4}, "model": "item/plushiecubfan"}
+    ,{"predicate": {"custom_model_data": 5}, "model": "item/plushiedocm"}
+    ,{"predicate": {"custom_model_data": 6}, "model": "item/plushieetho"}
+    ,{"predicate": {"custom_model_data": 7}, "model": "item/plushiefalse"}
+    ,{"predicate": {"custom_model_data": 8}, "model": "item/plushiegeminitay"}
+    ,{"predicate": {"custom_model_data": 9}, "model": "item/plushiegrian"}
+    ,{"predicate": {"custom_model_data": 10}, "model": "item/plushiegrumbot"}
+    ,{"predicate": {"custom_model_data": 11}, "model": "item/plushiegtwscar"}
+    ,{"predicate": {"custom_model_data": 12}, "model": "item/plushiegtwscarcreate"}
+    ,{"predicate": {"custom_model_data": 13}, "model": "item/plushiegtwscarelf"}
+    ,{"predicate": {"custom_model_data": 14}, "model": "item/plushiegtwscarhotguy"}
+    ,{"predicate": {"custom_model_data": 15}, "model": "item/plushiegtwscarland"}
+    ,{"predicate": {"custom_model_data": 16}, "model": "item/plushiehypno"}
+    ,{"predicate": {"custom_model_data": 17}, "model": "item/plushieijevin"}
+    ,{"predicate": {"custom_model_data": 18}, "model": "item/plushieimpulse"}
+    ,{"predicate": {"custom_model_data": 19}, "model": "item/plushieimpulsedwarf"}
+    ,{"predicate": {"custom_model_data": 20}, "model": "item/plushieiskall"}
+    ,{"predicate": {"custom_model_data": 21}, "model": "item/plushiejellie"}
+    ,{"predicate": {"custom_model_data": 22}, "model": "item/plushiejoehills"}
+    ,{"predicate": {"custom_model_data": 23}, "model": "item/plushiejoehillsjhost"}
+    ,{"predicate": {"custom_model_data": 24}, "model": "item/plushiekeralis"}
+    ,{"predicate": {"custom_model_data": 25}, "model": "item/plushiekeraliscreate"}
+    ,{"predicate": {"custom_model_data": 26}, "model": "item/plushiemumbo"}
+    ,{"predicate": {"custom_model_data": 27}, "model": "item/plushiepearl"}
+    ,{"predicate": {"custom_model_data": 28}, "model": "item/plushiepearlcleaning"}
+    ,{"predicate": {"custom_model_data": 29}, "model": "item/plushierenthedog"}
+    ,{"predicate": {"custom_model_data": 30}, "model": "item/plushierentheking"}
+    ,{"predicate": {"custom_model_data": 31}, "model": "item/plushiestress"}
+    ,{"predicate": {"custom_model_data": 32}, "model": "item/plushiestressgg"}
+    ,{"predicate": {"custom_model_data": 33}, "model": "item/plushietango"}
+    ,{"predicate": {"custom_model_data": 34}, "model": "item/plushietangocreate"}
+    ,{"predicate": {"custom_model_data": 35}, "model": "item/plushietangodungeonmaster"}
+    ,{"predicate": {"custom_model_data": 36}, "model": "item/plushietfc"}
+    ,{"predicate": {"custom_model_data": 37}, "model": "item/plushievintagebeef"}
+    ,{"predicate": {"custom_model_data": 38}, "model": "item/plushievintagebeeftwo"}
+    ,{"predicate": {"custom_model_data": 39}, "model": "item/plushiewelsknight"}
+    ,{"predicate": {"custom_model_data": 40}, "model": "item/plushiewhelsknight"}
+    ,{"predicate": {"custom_model_data": 41}, "model": "item/plushiexbcrafted"}
+    ,{"predicate": {"custom_model_data": 42}, "model": "item/plushiexisuma"}
+    ,{"predicate": {"custom_model_data": 43}, "model": "item/plushiexisumabone"}
+    ,{"predicate": {"custom_model_data": 44}, "model": "item/plushiexisumaevil"}
+    ,{"predicate": {"custom_model_data": 45}, "model": "item/plushiezedaph"}
+    ,{"predicate": {"custom_model_data": 46}, "model": "item/plushiezedaphadvance"}
+    ,{"predicate": {"custom_model_data": 47}, "model": "item/plushiezedaphcreate"}
+    ,{"predicate": {"custom_model_data": 48}, "model": "item/plushiezombiecleo"}
+    ,{"predicate": {"custom_model_data": 49}, "model": "item/plushiezombiecleogorgon"}
+    ,{"predicate": {"custom_model_data": 50}, "model": "item/plushiepixlriffs"}
+    ,{"predicate": {"custom_model_data": 51}, "model": "item/plushiezloyxp"}
+    ,{"predicate": {"custom_model_data": 52}, "model": "item/plushielyarrah"}
+    ,{"predicate": {"custom_model_data": 53}, "model": "item/plushiegriande"}
+    ]
+}
