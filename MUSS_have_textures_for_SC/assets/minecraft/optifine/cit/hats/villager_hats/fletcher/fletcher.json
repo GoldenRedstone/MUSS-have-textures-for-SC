@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./fletcher",
-		"particle": "./fletcher"
+		"0": "./fletcher.png",
+		"particle": "./fletcher.png"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./shepherd",
-		"particle": "./shepherd"
+		"0": "./shepherd.png",
+		"particle": "./shepherd.png"
 	},
 	"elements": [
 		{

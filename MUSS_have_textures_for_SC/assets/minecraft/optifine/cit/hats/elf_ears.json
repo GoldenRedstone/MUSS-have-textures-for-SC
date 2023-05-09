@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "elf_ears",
-		"particle": "elf_ears"
+		"0": "./elf_ears.png",
+		"particle": "./elf_ears.png"
 	},
 	"elements": [
 		{

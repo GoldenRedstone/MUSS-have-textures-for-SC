@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "santa_hats/orange_hat",
-		"particle": "santa_hats/orange_hat"
+		"1": "santa_hats/orange_hat.png",
+		"particle": "santa_hats/orange_hat.png"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./goggles",
-		"particle": "./goggles"
+		"0": "./goggles.png",
+		"particle": "./goggles.png"
 	},
 	"elements": [
 		{
