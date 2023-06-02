@@ -58,6 +58,28 @@ Capitalisation does not matter.
 - Candy Cane
   (*Golden Apple*)
 
+  ## Pringles
+  - Green Pringles
+    (*Sus Pringles*)
+  - Tiny Green Pringles
+    (*Tiny Sus*)
+  - Red Pringles
+    (*Original Pringles*)
+  - Tiny Red Pringles
+    (*Tiny Original*)
+  - Purple Pringles
+    (*BBQ Pringles*)
+  - Tiny Purple Pringles
+    (*Tiny BBQ*)
+  - Super Pringles
+    (*Cheesesteak Pringles*)
+  - Tiny Super Pringles
+    (*Tiny Cheesesteak*)
+  - Sheriff Pringles
+    (*Cheddar Cheese Pringles*)
+  - Tiny Sheriff Pringles
+    (*Tiny Cheddar Cheese*)
+
 ## Hats
 - Scar
   (*Scar's HC tophat*)
@@ -87,6 +109,8 @@ Capitalisation does not matter.
   (*Netherite Axe*)
 - Baguette
   (*Netherite Sword*)
+- Mumbo Pringles
+  (*Carved Pumpkin*)
 
 ## Letters
 - Letter
