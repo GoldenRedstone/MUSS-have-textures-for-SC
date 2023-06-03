@@ -1,0 +1,57 @@
+{
+	"record.sugarcane": {
+		"sounds": [
+			"custom_discs/sugarcane"
+		]
+	},
+	"record.cactus_string_sand": {
+		"sounds": [
+			"custom_discs/cactus_string_sand"
+		]
+	},
+	"record.shift_click": {
+		"sounds": [
+			"custom_discs/shift_click"
+		]
+	},
+	"record.stupid": {
+		"sounds": [
+			"custom_discs/stupid"
+		]
+	},
+	"record.water_source": {
+		"sounds": [
+			"custom_discs/water_source"
+		]
+	},
+	"record.mumbo_afk": {
+		"sounds": [
+			"custom_discs/mumbo_afk"
+		]
+	},
+	"record.pickles": {
+		"sounds": [
+			"custom_discs/pickles"
+		]
+	},
+	"record.placing_slabs": {
+		"sounds": [
+			"custom_discs/placing_slabs"
+		]
+	},
+	"record.nether_wart": {
+		"sounds": [
+			"custom_discs/nether_wart"
+		]
+	},
+	"record.corridor": {
+		"sounds": [
+			"custom_discs/corridor"
+		]
+	},
+	"record.tiny_timelapse": {
+		"sounds": [
+			"custom_discs/tiny_timelapse"
+		]
+	}
+}
