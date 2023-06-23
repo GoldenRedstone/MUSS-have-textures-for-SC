@@ -1,0 +1,17 @@
+{
+  "trim_material.trimsexpanded.coal": "Coal Material",
+  "trim_material.trimsexpanded.echo": "Echo Material",
+  "trim_material.trimsexpanded.ender": "Ender Material",
+  "trim_material.trimsexpanded.glowstone": "Glowstone Material",
+  "trim_material.trimsexpanded.leather": "Leather Material",
+  "trim_material.trimsexpanded.netherbrick": "Nether Brick Material",
+  "trim_material.trimsexpanded.prismarine": "Prismarine Material",
+  "trim_material.trimsexpanded.rabbit": "Rabbit Material",
+  "trim_material.trimsexpanded.slime": "Slime Material",
+  
+  "trim_pattern.trimsexpanded.drip": "Drip Armor Trim",
+  "trim_pattern.trimsexpanded.suspicious": "Suspicious Armor Trim",
+  "trim_pattern.trimsexpanded.plated": "Plated Armor Trim",
+  "trim_pattern.trimsexpanded.creeper": "Creeper Armor Trim",
+  "trim_pattern.trimsexpanded.scale": "Scale Armor Trim"
+}

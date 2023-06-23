@@ -53,5 +53,45 @@
 		"sounds": [
 			"custom_discs/tiny_timelapse"
 		]
+	},
+	"record.diabolical": {
+		"sounds": [
+			"custom_discs/diabolical"
+		]
+	},
+	"record.dibby_dibby_diamonds": {
+		"sounds": [
+			"custom_discs/dibby_dibby_diamonds"
+		]
+	},
+	"record.keralis_and_xisuma_no_no_no": {
+		"sounds": [
+			"custom_discs/keralis_and_xisuma_no_no_no"
+		]
+	},
+	"record.more_doors_for_me": {
+		"sounds": [
+			"custom_discs/more_doors_for_me"
+		]
+	},
+	"record.mumbo_no_no_no": {
+		"sounds": [
+			"custom_discs/mumbo_no_no_no"
+		]
+	},
+	"record.outro_time": {
+		"sounds": [
+			"custom_discs/outro_time"
+		]
+	},
+	"record.resource_gathering": {
+		"sounds": [
+			"custom_discs/resource_gathering"
+		]
+	},
+	"record.the_super_weapon": {
+		"sounds": [
+			"custom_discs/the_super_weapon"
+		]
 	}
 }
