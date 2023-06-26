@@ -11,16 +11,27 @@ Capitalisation does not matter.
 - Eli
   (*EliEliO/Elijah Rocks*)
 - Picket
-  (*Picket0909*)
 - Zip
   (*ZipnMC/Zipntoit*)
 - Jelly
-  (*JellyFingers*)
+  (*Kas/JellyFingers*)
 - Oink
-  (*Oink*)
 - Sab
   (*sablovesmangoes*)
 - Goldenapple
+- Coo
+- Crimson
+  (*Crimson_Warrior1*)
+- Elin
+- Elin Sweater
+- Fort
+- Goldenapple
+- Grian
+- Lincoln
+- Nick
+  (*OlivenickO*)
+- Quetsle
+- Rokuro
 
 ### Examples:
 - GoldenRedstone's Totem
@@ -59,6 +70,8 @@ Capitalisation does not matter.
    Chorus Fruit*)
 - Candy Cane
   (*Golden Apple*)
+- Bean
+  (*Beetroot, Beetroot Soup*)
 
 ## Hats
 - Scar
@@ -75,8 +88,8 @@ Capitalisation does not matter.
 - Post
   (*Postman's Hat*)
 - *Villager Profession Name*
-  (*Villager's Hats*)
 - Scarecrow
+- Bean
 
 ## Armour
 - Invisible
@@ -89,6 +102,12 @@ Capitalisation does not matter.
   (*Netherite Axe*)
 - Baguette
   (*Netherite Sword*)
+- Gay
+  (*Netherite Sword*)
+- Chip
+  (*Netherite Tools*)
+- Bundle
+  (*Shulker Boxes*)
 
 ## Letters
 - Letter
@@ -110,6 +129,9 @@ Capitalisation does not matter.
 - Rainbow
 - Star
 - Trident
+
+## Plushes
+
 
 
 I also make custom currency textures for:
