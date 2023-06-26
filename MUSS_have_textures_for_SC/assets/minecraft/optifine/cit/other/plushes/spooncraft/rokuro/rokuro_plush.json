@@ -1,0 +1,182 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "rokuro_plush",
+		"particle": "rokuro_plush"
+	},
+	"elements": [
+		{
+			"from": [8.1, 5, 5.9],
+			"to": [12.1, 9, 10.1],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 2], "texture": "#0"},
+				"west": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"up": {"uv": [2, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.7, 0.9, 6],
+			"to": [9.7, 4.9, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8.7, 2.9, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 5, 6], "texture": "#0"},
+				"east": {"uv": [2, 4, 4, 6], "texture": "#0"},
+				"south": {"uv": [5, 4, 6, 6], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [1, 8, 0, 6], "texture": "#0"},
+				"down": {"uv": [7, 0, 6, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 0.1, 8.65],
+			"to": [8.5, 2.1, 10.65],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [6.5, 1.1, 9.65]},
+			"faces": {
+				"north": {"uv": [1, 6, 3, 7], "texture": "#0"},
+				"east": {"uv": [2, 8, 3, 9], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 3], "texture": "#0"},
+				"west": {"uv": [8, 2, 9, 3], "texture": "#0"},
+				"up": {"uv": [5, 7, 3, 6], "texture": "#0"},
+				"down": {"uv": [8, 3, 6, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.575, 0.75, 4.125],
+			"to": [10.075, 4.75, 5.875],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [9.075, 2.75, 5]},
+			"faces": {
+				"north": {"uv": [7, 6, 7.75, 8], "texture": "#0"},
+				"east": {"uv": [6, 4, 7, 6], "texture": "#0"},
+				"south": {"uv": [0, 8, 0.75, 10], "texture": "#0"},
+				"west": {"uv": [5, 6, 6, 8], "texture": "#0"},
+				"up": {"uv": [4.75, 9, 4, 8], "texture": "#0"},
+				"down": {"uv": [5.75, 8, 5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.575, 0.75, 10.125],
+			"to": [10.075, 4.75, 11.875],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [9.075, 2.75, 11]},
+			"faces": {
+				"north": {"uv": [8, 0, 8.75, 2], "texture": "#0"},
+				"east": {"uv": [6, 6, 7, 8], "texture": "#0"},
+				"south": {"uv": [1, 8, 1.75, 10], "texture": "#0"},
+				"west": {"uv": [7, 0, 8, 2], "texture": "#0"},
+				"up": {"uv": [6.75, 9, 6, 8], "texture": "#0"},
+				"down": {"uv": [8.75, 6, 8, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 0.1, 5.35],
+			"to": [8.5, 2.1, 7.35],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [6.5, 1.1, 6.35]},
+			"faces": {
+				"north": {"uv": [1, 7, 3, 8], "texture": "#0"},
+				"east": {"uv": [3, 8, 4, 9], "texture": "#0"},
+				"south": {"uv": [3, 7, 5, 8], "texture": "#0"},
+				"west": {"uv": [8, 3, 9, 4], "texture": "#0"},
+				"up": {"uv": [9, 5, 7, 4], "texture": "#0"},
+				"down": {"uv": [9, 5, 7, 6], "texture": "#0"}
+			}
+		}
+	],
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/plushiebdubs"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/plushiebdubscreate"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/plushiebdubstwo"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/plushiecubfan"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/plushiedocm"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/plushieetho"},
+		{"predicate": {"custom_model_data": 7}, "model": "item/plushiefalse"},
+		{"predicate": {"custom_model_data": 8}, "model": "item/plushiegeminitay"},
+		{"predicate": {"custom_model_data": 9}, "model": "item/plushiegrian"},
+		{"predicate": {"custom_model_data": 10}, "model": "item/plushiegrumbot"},
+		{"predicate": {"custom_model_data": 11}, "model": "item/plushiegtwscar"},
+		{"predicate": {"custom_model_data": 12}, "model": "item/plushiegtwscarcreate"},
+		{"predicate": {"custom_model_data": 13}, "model": "item/plushiegtwscarelf"},
+		{"predicate": {"custom_model_data": 14}, "model": "item/plushiegtwscarhotguy"},
+		{"predicate": {"custom_model_data": 15}, "model": "item/plushiegtwscarland"},
+		{"predicate": {"custom_model_data": 16}, "model": "item/plushiehypno"},
+		{"predicate": {"custom_model_data": 17}, "model": "item/plushieijevin"},
+		{"predicate": {"custom_model_data": 18}, "model": "item/plushieimpulse"},
+		{"predicate": {"custom_model_data": 19}, "model": "item/plushieimpulsedwarf"},
+		{"predicate": {"custom_model_data": 20}, "model": "item/plushieiskall"},
+		{"predicate": {"custom_model_data": 21}, "model": "item/plushiejellie"},
+		{"predicate": {"custom_model_data": 22}, "model": "item/plushiejoehills"},
+		{"predicate": {"custom_model_data": 23}, "model": "item/plushiejoehillsjhost"},
+		{"predicate": {"custom_model_data": 24}, "model": "item/plushiekeralis"},
+		{"predicate": {"custom_model_data": 25}, "model": "item/plushiekeraliscreate"},
+		{"predicate": {"custom_model_data": 26}, "model": "item/plushiemumbo"},
+		{"predicate": {"custom_model_data": 27}, "model": "item/plushiepearl"},
+		{"predicate": {"custom_model_data": 28}, "model": "item/plushiepearlcleaning"},
+		{"predicate": {"custom_model_data": 29}, "model": "item/plushierenthedog"},
+		{"predicate": {"custom_model_data": 30}, "model": "item/plushierentheking"},
+		{"predicate": {"custom_model_data": 31}, "model": "item/plushiestress"},
+		{"predicate": {"custom_model_data": 32}, "model": "item/plushiestressgg"},
+		{"predicate": {"custom_model_data": 33}, "model": "item/plushietango"},
+		{"predicate": {"custom_model_data": 34}, "model": "item/plushietangocreate"},
+		{"predicate": {"custom_model_data": 35}, "model": "item/plushietangodungeonmaster"},
+		{"predicate": {"custom_model_data": 36}, "model": "item/plushietfc"},
+		{"predicate": {"custom_model_data": 37}, "model": "item/plushievintagebeef"},
+		{"predicate": {"custom_model_data": 38}, "model": "item/plushievintagebeeftwo"},
+		{"predicate": {"custom_model_data": 39}, "model": "item/plushiewelsknight"},
+		{"predicate": {"custom_model_data": 40}, "model": "item/plushiewhelsknight"},
+		{"predicate": {"custom_model_data": 41}, "model": "item/plushiexbcrafted"},
+		{"predicate": {"custom_model_data": 42}, "model": "item/plushiexisuma"},
+		{"predicate": {"custom_model_data": 43}, "model": "item/plushiexisumabone"},
+		{"predicate": {"custom_model_data": 44}, "model": "item/plushiexisumaevil"},
+		{"predicate": {"custom_model_data": 45}, "model": "item/plushiezedaph"},
+		{"predicate": {"custom_model_data": 46}, "model": "item/plushiezedaphadvance"},
+		{"predicate": {"custom_model_data": 47}, "model": "item/plushiezedaphcreate"},
+		{"predicate": {"custom_model_data": 48}, "model": "item/plushiezombiecleo"},
+		{"predicate": {"custom_model_data": 49}, "model": "item/plushiezombiecleogorgon"},
+		{"predicate": {"custom_model_data": 50}, "model": "item/plushiepixlriffs"},
+		{"predicate": {"custom_model_data": 51}, "model": "item/plushiezloyxp"},
+		{"predicate": {"custom_model_data": 52}, "model": "item/plushielyarrah"},
+		{"predicate": {"custom_model_data": 53}, "model": "item/plushiegriande"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 85, 10],
+			"translation": [0, -1.25, 19]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [0, 90, 0]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 15, 0]
+		},
+		"fixed": {
+			"rotation": [-15, -90, 80],
+			"translation": [0, -0.25, -15.25],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "doll",
+			"origin": [-15.10038, 7.0162, 11.33756],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}
