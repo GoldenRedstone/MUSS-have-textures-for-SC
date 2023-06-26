@@ -1,0 +1,97 @@
+{
+	"record.sugarcane": {
+		"sounds": [
+			"custom_discs/sugarcane"
+		]
+	},
+	"record.cactus_string_sand": {
+		"sounds": [
+			"custom_discs/cactus_string_sand"
+		]
+	},
+	"record.shift_click": {
+		"sounds": [
+			"custom_discs/shift_click"
+		]
+	},
+	"record.stupid": {
+		"sounds": [
+			"custom_discs/stupid"
+		]
+	},
+	"record.water_source": {
+		"sounds": [
+			"custom_discs/water_source"
+		]
+	},
+	"record.mumbo_afk": {
+		"sounds": [
+			"custom_discs/mumbo_afk"
+		]
+	},
+	"record.pickles": {
+		"sounds": [
+			"custom_discs/pickles"
+		]
+	},
+	"record.placing_slabs": {
+		"sounds": [
+			"custom_discs/placing_slabs"
+		]
+	},
+	"record.nether_wart": {
+		"sounds": [
+			"custom_discs/nether_wart"
+		]
+	},
+	"record.corridor": {
+		"sounds": [
+			"custom_discs/corridor"
+		]
+	},
+	"record.tiny_timelapse": {
+		"sounds": [
+			"custom_discs/tiny_timelapse"
+		]
+	},
+	"record.diabolical": {
+		"sounds": [
+			"custom_discs/diabolical"
+		]
+	},
+	"record.dibby_dibby_diamonds": {
+		"sounds": [
+			"custom_discs/dibby_dibby_diamonds"
+		]
+	},
+	"record.keralis_and_xisuma_no_no_no": {
+		"sounds": [
+			"custom_discs/keralis_and_xisuma_no_no_no"
+		]
+	},
+	"record.more_doors_for_me": {
+		"sounds": [
+			"custom_discs/more_doors_for_me"
+		]
+	},
+	"record.mumbo_no_no_no": {
+		"sounds": [
+			"custom_discs/mumbo_no_no_no"
+		]
+	},
+	"record.outro_time": {
+		"sounds": [
+			"custom_discs/outro_time"
+		]
+	},
+	"record.resource_gathering": {
+		"sounds": [
+			"custom_discs/resource_gathering"
+		]
+	},
+	"record.the_super_weapon": {
+		"sounds": [
+			"custom_discs/the_super_weapon"
+		]
+	}
+}

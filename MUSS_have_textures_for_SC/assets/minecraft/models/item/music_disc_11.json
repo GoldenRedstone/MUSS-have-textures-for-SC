@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/music_disc_11"
+  },
+  "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "item/custom_discs/sugarcane" },
+        { "predicate": {"custom_model_data": 2 }, "model": "item/custom_discs/cactus_string_sand" },
+        { "predicate": {"custom_model_data": 3 }, "model": "item/custom_discs/shift_click" },
+        { "predicate": {"custom_model_data": 4 }, "model": "item/custom_discs/stupid" },
+        { "predicate": {"custom_model_data": 5 }, "model": "item/custom_discs/water_source" },
+        { "predicate": {"custom_model_data": 6 }, "model": "item/custom_discs/pickles" },
+		{ "predicate": {"custom_model_data": 7 }, "model": "item/custom_discs/placing_slabs" },
+        { "predicate": {"custom_model_data": 8 }, "model": "item/custom_discs/nether_wart" },
+        { "predicate": {"custom_model_data": 9 }, "model": "item/custom_discs/corridor" },
+        { "predicate": {"custom_model_data": 10 }, "model": "item/custom_discs/tiny_timelapse" },
+        { "predicate": {"custom_model_data": 11 }, "model": "item/custom_discs/mumbo_afk" },
+        { "predicate": {"custom_model_data": 12 }, "model": "item/custom_discs/diabolical" },
+        { "predicate": {"custom_model_data": 13 }, "model": "item/custom_discs/dibby_dibby_diamonds" },
+        { "predicate": {"custom_model_data": 14 }, "model": "item/custom_discs/keralis_and_xisuma_no_no_no" },
+        { "predicate": {"custom_model_data": 15 }, "model": "item/custom_discs/more_doors_for_me" },
+        { "predicate": {"custom_model_data": 16 }, "model": "item/custom_discs/mumbo_no_no_no" },
+        { "predicate": {"custom_model_data": 17 }, "model": "item/custom_discs/outro_time" },
+        { "predicate": {"custom_model_data": 18 }, "model": "item/custom_discs/resource_gathering" },
+        { "predicate": {"custom_model_data": 19 }, "model": "item/custom_discs/the_super_weapon" }
+    ]
+}

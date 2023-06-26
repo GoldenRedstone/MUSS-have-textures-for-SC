@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/keralis_and_xisuma_no_no_no"
+    }
+}

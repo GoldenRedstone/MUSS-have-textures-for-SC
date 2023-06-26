@@ -11,16 +11,27 @@ Capitalisation does not matter.
 - Eli
   (*EliEliO/Elijah Rocks*)
 - Picket
-  (*Picket0909*)
 - Zip
   (*ZipnMC/Zipntoit*)
 - Jelly
-  (*JellyFingers*)
+  (*Kas/JellyFingers*)
 - Oink
-  (*Oink*)
 - Sab
   (*sablovesmangoes*)
 - Goldenapple
+- Coo
+- Crimson
+  (*Crimson_Warrior1*)
+- Elin
+- Elin Sweater
+- Fort
+- Goldenapple
+- Grian
+- Lincoln
+- Nick
+  (*OlivenickO*)
+- Quetsle
+- Rokuro
 
 ### Examples:
 - GoldenRedstone's Totem
@@ -39,6 +50,8 @@ Capitalisation does not matter.
   (*kirbyfofa768*)
 - Dark Kirby
   (*kirbyfofa768*)
+- GoldenApple
+- French
 - Crow
 - Invisible
 - *Any Minecraft colour*
@@ -57,28 +70,30 @@ Capitalisation does not matter.
    Chorus Fruit*)
 - Candy Cane
   (*Golden Apple*)
+- Bean
+  (*Beetroot, Beetroot Soup*)
 
-  ## Pringles
-  - Green Pringles
-    (*Sus Pringles*)
-  - Tiny Green Pringles
-    (*Tiny Sus*)
-  - Red Pringles
-    (*Original Pringles*)
-  - Tiny Red Pringles
-    (*Tiny Original*)
-  - Purple Pringles
-    (*BBQ Pringles*)
-  - Tiny Purple Pringles
-    (*Tiny BBQ*)
-  - Super Pringles
-    (*Cheesesteak Pringles*)
-  - Tiny Super Pringles
-    (*Tiny Cheesesteak*)
-  - Sheriff Pringles
-    (*Cheddar Cheese Pringles*)
-  - Tiny Sheriff Pringles
-    (*Tiny Cheddar Cheese*)
+## Pringles
+- Green Pringles
+  (*Sus Pringles*)
+- Tiny Green Pringles
+  (*Tiny Sus*)
+- Red Pringles
+  (*Original Pringles*)
+- Tiny Red Pringles
+  (*Tiny Original*)
+- Purple Pringles
+  (*BBQ Pringles*)
+- Tiny Purple Pringles
+  (*Tiny BBQ*)
+- Super Pringles
+  (*Cheesesteak Pringles*)
+- Tiny Super Pringles
+  (*Tiny Cheesesteak*)
+- Sheriff Pringles
+  (*Cheddar Cheese Pringles*)
+- Tiny Sheriff Pringles
+  (*Tiny Cheddar Cheese*)
 
 ## Hats
 - Scar
@@ -95,8 +110,10 @@ Capitalisation does not matter.
 - Post
   (*Postman's Hat*)
 - *Villager Profession Name*
-  (*Villager's Hats*)
 - Scarecrow
+- Bean
+
+Rename a carved pumpkin to use.
 
 ## Armour
 - Invisible
@@ -109,6 +126,12 @@ Capitalisation does not matter.
   (*Netherite Axe*)
 - Baguette
   (*Netherite Sword*)
+- Gay
+  (*Netherite Sword*)
+- Chip
+  (*Netherite Tools*)
+- Bundle
+  (*Shulker Boxes*)
 - Mumbo Pringles
   (*Carved Pumpkin*)
 
@@ -133,6 +156,17 @@ Capitalisation does not matter.
 - Star
 - Trident
 
+## Plushes
+- Baron
+- Elin
+- Fort
+- Golden
+- Joe
+- Kirby
+- Nick
+- Rokuro
+- Sab
+- *Lots of Hermits*
 
 I also make custom currency textures for:
 - Spoons & Co.
