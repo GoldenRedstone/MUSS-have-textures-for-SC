@@ -73,6 +73,28 @@ Capitalisation does not matter.
 - Bean
   (*Beetroot, Beetroot Soup*)
 
+## Pringles
+- Green Pringles
+  (*Sus Pringles*)
+- Tiny Green Pringles
+  (*Tiny Sus*)
+- Red Pringles
+  (*Original Pringles*)
+- Tiny Red Pringles
+  (*Tiny Original*)
+- Purple Pringles
+  (*BBQ Pringles*)
+- Tiny Purple Pringles
+  (*Tiny BBQ*)
+- Super Pringles
+  (*Cheesesteak Pringles*)
+- Tiny Super Pringles
+  (*Tiny Cheesesteak*)
+- Sheriff Pringles
+  (*Cheddar Cheese Pringles*)
+- Tiny Sheriff Pringles
+  (*Tiny Cheddar Cheese*)
+
 ## Hats
 - Scar
   (*Scar's HC tophat*)
@@ -91,6 +113,8 @@ Capitalisation does not matter.
 - Scarecrow
 - Bean
 
+Rename a carved pumpkin to use.
+
 ## Armour
 - Invisible
   (*Makes any armour piece invisible when worn*)
@@ -108,6 +132,8 @@ Capitalisation does not matter.
   (*Netherite Tools*)
 - Bundle
   (*Shulker Boxes*)
+- Mumbo Pringles
+  (*Carved Pumpkin*)
 
 ## Letters
 - Letter
@@ -131,8 +157,16 @@ Capitalisation does not matter.
 - Trident
 
 ## Plushes
-
-
+- Baron
+- Elin
+- Fort
+- Golden
+- Joe
+- Kirby
+- Nick
+- Rokuro
+- Sab
+- *Lots of Hermits*
 
 I also make custom currency textures for:
 - Spoons & Co.
