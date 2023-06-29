@@ -32,6 +32,7 @@ Capitalisation does not matter.
   (*OlivenickO*)
 - Quetsle
 - Rokuro
+- ManyAtoms
 
 ### Examples:
 - GoldenRedstone's Totem
