@@ -73,6 +73,14 @@ Capitalisation does not matter.
   (*Golden Apple*)
 - Bean
   (*Beetroot, Beetroot Soup*)
+- Baguette
+  (*Bread*)
+- Cranberries
+  (*Sweet Berries*)
+- Honey
+  (*Golden Carrots*)
+- Caramel
+  (*Cookie*)
 
 ## Pringles
 - Green Pringles
