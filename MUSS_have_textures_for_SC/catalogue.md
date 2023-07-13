@@ -78,7 +78,7 @@ Capitalisation does not matter.
 - Cranberries
   (*Sweet Berries*)
 - Honey
-  (*Golden Carrots*)
+  (*Golden Carrot*)
 - Caramel
   (*Cookie*)
 
