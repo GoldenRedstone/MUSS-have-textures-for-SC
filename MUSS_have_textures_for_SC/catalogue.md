@@ -165,8 +165,9 @@ Rename a carved pumpkin to use.
 - Star
 - Trident
 
-## Plushes
+## Plushies
 - Baron
+- Craft
 - Elin
 - Fort
 - Golden
@@ -175,6 +176,7 @@ Rename a carved pumpkin to use.
 - Nick
 - Rokuro
 - Sab
+- Summer
 - *Lots of Hermits*
 
 I also make custom currency textures for:
