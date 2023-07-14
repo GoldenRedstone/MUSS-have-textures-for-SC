@@ -169,6 +169,7 @@ I also make custom currency textures for:
   (*Tiny Cheddar Cheese*)
 
 ## Plushies
+- Aephh
 - Baron
 - Craft
 - Elin
@@ -176,6 +177,7 @@ I also make custom currency textures for:
 - Golden
 - Joe
 - Kirby
+- MCSM
 - Nick
 - Rokuro
 - Sab
