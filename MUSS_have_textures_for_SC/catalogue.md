@@ -82,28 +82,6 @@ Capitalisation does not matter.
 - Caramel
   (*Cookie*)
 
-## Pringles
-- Green Pringles
-  (*Sus Pringles*)
-- Tiny Green Pringles
-  (*Tiny Sus*)
-- Red Pringles
-  (*Original Pringles*)
-- Tiny Red Pringles
-  (*Tiny Original*)
-- Purple Pringles
-  (*BBQ Pringles*)
-- Tiny Purple Pringles
-  (*Tiny BBQ*)
-- Super Pringles
-  (*Cheesesteak Pringles*)
-- Tiny Super Pringles
-  (*Tiny Cheesesteak*)
-- Sheriff Pringles
-  (*Cheddar Cheese Pringles*)
-- Tiny Sheriff Pringles
-  (*Tiny Cheddar Cheese*)
-
 ## Hats
 - Scar
   (*Scar's HC tophat*)
@@ -144,6 +122,9 @@ Rename a carved pumpkin to use.
 - Mumbo Pringles
   (*Carved Pumpkin*)
 
+I also make custom currency textures for:
+- Spoons & Co.
+
 ## Letters
 - Letter
 - Modern
@@ -165,6 +146,28 @@ Rename a carved pumpkin to use.
 - Star
 - Trident
 
+## Pringles
+- Green Pringles
+  (*Sus Pringles*)
+- Tiny Green Pringles
+  (*Tiny Sus*)
+- Red Pringles
+  (*Original Pringles*)
+- Tiny Red Pringles
+  (*Tiny Original*)
+- Purple Pringles
+  (*BBQ Pringles*)
+- Tiny Purple Pringles
+  (*Tiny BBQ*)
+- Super Pringles
+  (*Cheesesteak Pringles*)
+- Tiny Super Pringles
+  (*Tiny Cheesesteak*)
+- Sheriff Pringles
+  (*Cheddar Cheese Pringles*)
+- Tiny Sheriff Pringles
+  (*Tiny Cheddar Cheese*)
+
 ## Plushies
 - Baron
 - Craft
@@ -178,9 +181,6 @@ Rename a carved pumpkin to use.
 - Sab
 - Summer
 - *Lots of Hermits*
-
-I also make custom currency textures for:
-- Spoons & Co.
 
 ##
 Please don't hesitate to contact me for more information or to place a request.
