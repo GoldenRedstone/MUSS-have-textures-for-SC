@@ -124,6 +124,7 @@ Rename a carved pumpkin to use.
 
 I also make custom currency textures for:
 - Spoons & Co.
+- The Black Market
 
 ## Letters
 - Letter
