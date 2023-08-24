@@ -1,0 +1,4 @@
+{
+    condition: "MUSSHaveTexturesForSC.menuTitle == MUSSHaveTexturesForSC.menuTitle.spooncraft",
+    fallback: "assets/minecraft/textures/gui/title/tescocraft.png"
+}

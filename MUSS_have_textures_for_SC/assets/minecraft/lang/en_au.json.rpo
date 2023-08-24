@@ -1,0 +1,4 @@
+{
+    condition: "!MUSSHaveTexturesForSC.mumboLang",
+    fallback: "assets/minecraft/lang/en_aumj.json"
+}
