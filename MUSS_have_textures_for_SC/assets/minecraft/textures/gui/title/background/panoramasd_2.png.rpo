@@ -1,0 +1,3 @@
+{
+    condition: "MUSSHaveTexturesForSC.menuPanorama == MUSSHaveTexturesForSC.menuPanorama.seasonThreeSD",
+}

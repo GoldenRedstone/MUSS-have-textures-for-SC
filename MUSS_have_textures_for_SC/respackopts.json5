@@ -6,8 +6,8 @@
         mumboLang: false,
 	menuPanorama: {
 	    type: "enum",
-	    default: "seasonThree",
-	    values: ["default", "seasonThree"]
+	    default: "seasonThreeSpawn",
+	    values: ["default", "seasonThreeSpawn", "seasonThreeSD"]
 	},
 	menuTitle: {
 	    type: "enum",
