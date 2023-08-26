@@ -3,7 +3,6 @@
     version: 9,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
-        mumboLang: false,
 	menuPanorama: {
 	    type: "enum",
 	    default: "seasonThreeSpawn",
@@ -13,6 +12,8 @@
 	    type: "enum",
 	    default: "spooncraft",
 	    values: ["minecraft", "spooncraft", "tescocraft"]
-	}
+	},
+        mumboLang: false,
+        mumboSunMoon: false
     }
 }

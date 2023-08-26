@@ -1,0 +1,4 @@
+{
+    condition: "!MUSSHaveTexturesForSC.mumboSunMoon",
+    fallback: "assets/minecraft/textures/environment/mumbo_moon.png"
+}

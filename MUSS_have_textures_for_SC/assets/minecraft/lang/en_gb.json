@@ -1,14 +1,16 @@
 {
     "rpo.MUSSHaveTexturesForSC": "My Unique Stuff Shall Have Textures for Spooncraft!",
-    "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
-    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Currently only works for en_GB, en_US, and en_AU",
     "rpo.MUSSHaveTexturesForSC.menuPanorama": "Panorama background in the menu",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.default": "Default",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSpawn": "S3 Spawn",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSD": "S3 Shop. District",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonTwo": "S2 Spawn",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.tooltip": "Contact GoldenRedstone for more",
     "rpo.MUSSHaveTexturesForSC.menuTitle": "Title displayed in the menu",
     "rpo.MUSSHaveTexturesForSC.menuTitle.minecraft": "Minecraft",
     "rpo.MUSSHaveTexturesForSC.menuTitle.spooncraft": "Spooncraft",
-    "rpo.MUSSHaveTexturesForSC.menuTitle.tescocraft": "Tescocraft"
+    "rpo.MUSSHaveTexturesForSC.menuTitle.tescocraft": "Tescocraft",
+    "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
+    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Currently only works for en_GB, en_US, and en_AU",
+    "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon"
 }
