@@ -1,7 +1,7 @@
 {
     id: "MUSSHaveTexturesForSC",
-    version: 9,
-    capabilities: ["FileFilter", "DirFilter"],
+    version: 12,
+    capabilities: ["FileFilter"],
     conf: {
 	menuPanorama: {
 	    type: "enum",

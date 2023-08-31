@@ -4,6 +4,8 @@
     "rpo.MUSSHaveTexturesForSC.menuPanorama.default": "Default",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSpawn": "S3 Spawn",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSD": "S3 Shop. District",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonFourSpawn": "S4 Spawn",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonFourSD": "S4 Shop. District",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonTwo": "S2 Spawn",
     "rpo.MUSSHaveTexturesForSC.menuPanorama.tooltip": "Contact GoldenRedstone for more",
     "rpo.MUSSHaveTexturesForSC.menuTitle": "Title displayed in the menu",
@@ -11,6 +13,7 @@
     "rpo.MUSSHaveTexturesForSC.menuTitle.spooncraft": "Spooncraft",
     "rpo.MUSSHaveTexturesForSC.menuTitle.tescocraft": "Tescocraft",
     "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
-    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Currently only works for en_GB, en_US, and en_AU",
-    "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon"
+    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, and en_AU",
+    "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon",
+    "rpo.MUSSHaveTexturesForSC.disableInvis": "Disable invisible armor and elytra"
 }

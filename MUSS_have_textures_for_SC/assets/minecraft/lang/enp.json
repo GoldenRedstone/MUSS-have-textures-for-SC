@@ -1,0 +1,16 @@
+{
+    "rpo.MUSSHaveTexturesForSC": "MUSS Have Looks for Spooncraft!",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama": "Background view in the mainlist",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.default": "Default",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSpawn": "S3 Spawn",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonThreeSD": "S3 Shop. Region",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.seasonTwo": "S2 Spawn",
+    "rpo.MUSSHaveTexturesForSC.menuPanorama.tooltip": "Speak to GoldenRedstone for more",
+    "rpo.MUSSHaveTexturesForSC.menuTitle": "Header shown in the mainlist",
+    "rpo.MUSSHaveTexturesForSC.menuTitle.minecraft": "Minecraft",
+    "rpo.MUSSHaveTexturesForSC.menuTitle.spooncraft": "Spooncraft",
+    "rpo.MUSSHaveTexturesForSC.menuTitle.tescocraft": "Tescocraft",
+    "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your speak",
+    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, and en_AU",
+    "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon"
+}
