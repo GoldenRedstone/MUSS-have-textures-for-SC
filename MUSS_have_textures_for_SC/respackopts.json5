@@ -3,16 +3,16 @@
     version: 12,
     capabilities: ["FileFilter"],
     conf: {
-	menuPanorama: {
-	    type: "enum",
-	    default: "seasonThreeSpawn",
-	    values: ["default", "seasonThreeSpawn", "seasonThreeSD"]
-	},
-	menuTitle: {
-	    type: "enum",
-	    default: "spooncraft",
-	    values: ["minecraft", "spooncraft", "tescocraft"]
-	},
+        menuPanorama: {
+            type: "enum",
+            default: "seasonThreeSpawn",
+            values: ["default", "seasonThreeSpawn", "seasonThreeSD"]
+        },
+        menuTitle: {
+            type: "enum",
+            default: "spooncraft",
+            values: ["minecraft", "spooncraft", "tescocraft"]
+        },
         mumboLang: false,
         mumboSunMoon: false
     }

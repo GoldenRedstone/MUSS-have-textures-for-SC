@@ -13,7 +13,7 @@
     "rpo.MUSSHaveTexturesForSC.menuTitle.spooncraft": "Spooncraft",
     "rpo.MUSSHaveTexturesForSC.menuTitle.tescocraft": "Tescocraft",
     "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
-    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, and en_AU",
+    "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, en_AU, enp, and en_UD",
     "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon",
     "rpo.MUSSHaveTexturesForSC.disableInvis": "Disable invisible armour and elytra",
     "item.minecraft.wooden_shovel": "Wooden Spoon",
@@ -28,5 +28,5 @@
     "item.minecraft.golden_leggings": "Golden Pants",
     "item.minecraft.diamond_leggings": "Diamond Pants",
     "item.minecraft.netherite_leggings": "Netherite Pants",
-    "options.difficulty.easy": "Easy"
+    "options.difficulty.easy": "Really Quite Simple"
 }
