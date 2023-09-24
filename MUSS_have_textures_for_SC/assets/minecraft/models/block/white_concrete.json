@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/white_concrete"
+    },
+    "display": {
+        "head": {
+            "translation": [0, -2.11, -7],
+            "scale": [0.15, 0.15, 0.15]
+        }
+    }
+}
