@@ -15,5 +15,6 @@
     "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your speak",
     "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, en_AU, enp, and en_UD",
     "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon",
-    "rpo.MUSSHaveTexturesForSC.disableInvis": "Lay off unsightbere armor and endergliders"
+    "rpo.MUSSHaveTexturesForSC.disableInvis": "Lay off unsightbere armor and endergliders",
+    "instrument.minecraft.admire_goat_horn": "Creeper"
 }

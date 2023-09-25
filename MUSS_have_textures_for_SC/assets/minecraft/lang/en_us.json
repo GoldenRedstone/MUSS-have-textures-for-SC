@@ -15,5 +15,6 @@
     "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
     "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for en_GB, en_US, en_AU, enp, and en_UD",
     "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon",
-    "rpo.MUSSHaveTexturesForSC.disableInvis": "Disable invisible armor and elytra"
+    "rpo.MUSSHaveTexturesForSC.disableInvis": "Disable invisible armor and elytra",
+    "instrument.minecraft.admire_goat_horn": "Creeper"
 }
