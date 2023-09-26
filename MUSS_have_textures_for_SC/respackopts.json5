@@ -1,7 +1,7 @@
 {
     id: "MUSSHaveTexturesForSC",
     version: 12,
-    capabilities: ["FileFilter"],
+    capabilities: ["FileFilter", "DirFilter"],
     conf: {
         menuPanorama: {
             type: "enum",
@@ -14,6 +14,7 @@
             values: ["minecraft", "spooncraft", "tescocraft"]
         },
         mumboLang: false,
-        mumboSunMoon: false
+        mumboSunMoon: false,
+        enableInvis: true
     }
 }

@@ -15,7 +15,7 @@
     "rpo.MUSSHaveTexturesForSC.mumboLang": "Mumboify your language",
     "rpo.MUSSHaveTexturesForSC.mumboLang.tooltip": "Only works for\nen_GB, en_US, en_AU, en_NZ, en_CA, enp, and en_UD",
     "rpo.MUSSHaveTexturesForSC.mumboSunMoon": "Mumboify the sun and moon",
-    "rpo.MUSSHaveTexturesForSC.disableInvis": "Disable invisible armour and elytra",
+    "rpo.MUSSHaveTexturesForSC.enableInvis": "Invisible armour and elytra",
     "instrument.minecraft.admire_goat_horn": "Creeper",
     "item.minecraft.wooden_shovel": "Wooden Spoon",
     "item.minecraft.stone_shovel": "Stone Spoon",
