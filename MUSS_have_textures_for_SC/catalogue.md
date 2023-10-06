@@ -53,9 +53,13 @@ Capitalisation does not matter.
   (*kirbyfofa768*)
 - GoldenApple
 - French
+- Cheese
+- Allay
 - Crow
+- Dragon
+- Phantom
+- Vex
 - Invisible
-- *Any Minecraft colour*
 
 ### Examples:
 - Golden's Glider
