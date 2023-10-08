@@ -124,6 +124,8 @@ Rename a carved pumpkin to use.
   (*Netherite Tools*)
 - Bundle
   (*Shulker Boxes*)
+- Skyberg
+  (*Black Shulker Box*)
 - Mumbo Pringles
   (*Carved Pumpkin*)
 
