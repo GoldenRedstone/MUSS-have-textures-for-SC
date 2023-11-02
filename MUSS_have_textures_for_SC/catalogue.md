@@ -25,7 +25,6 @@ Capitalisation does not matter.
 - Elin
 - Elin Sweater
 - Fort
-- Goldenapple
 - Grian
 - Lincoln
 - Nick
@@ -180,6 +179,7 @@ I also make custom currency textures for:
 - Aephh
 - Baron
 - Craft
+- Crem
 - Elin
 - Fort
 - Golden
@@ -187,9 +187,12 @@ I also make custom currency textures for:
 - Kirby
 - MCSM
 - Nick
+- PoisonLoca
 - Rokuro
 - Sab
 - Summer
+- TrioSalad
+- Wappie
 - *Lots of Hermits*
 
 ##
