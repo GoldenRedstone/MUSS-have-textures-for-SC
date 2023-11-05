@@ -109,6 +109,8 @@ Rename a carved pumpkin to use.
 ## Armour
 - Invisible
   (*Makes any armour piece invisible when worn*)
+- Crusader
+  (*Netherite Helmet/Boots*)
 
 ## Other
 - Hotguy
