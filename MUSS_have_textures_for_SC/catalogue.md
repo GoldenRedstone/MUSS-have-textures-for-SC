@@ -51,6 +51,7 @@ Capitalisation does not matter.
   (*kirbyfofa768*)
 - Dark Kirby
   (*kirbyfofa768*)
+- Olive
 - GoldenApple
 - Black and Green
 - French
