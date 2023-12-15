@@ -32,6 +32,7 @@ Capitalisation does not matter.
 - Quetsle
 - Rokuro
 - ManyAtoms
+  (*ManyManyAtoms)
 - Joe
 
 ### Examples:
@@ -87,6 +88,8 @@ Capitalisation does not matter.
   (*Golden Carrot*)
 - Caramel
   (*Cookie*)
+- Moss
+  (*Sweet Berries*)
 
 ## Hats
 - Scar
