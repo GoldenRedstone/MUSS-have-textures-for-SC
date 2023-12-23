@@ -53,7 +53,8 @@ Capitalisation does not matter.
 - Dark Kirby
   (*kirbyfofa768*)
 - Olive
-- GoldenApple
+- Duck
+  (*Goldenapple*)
 - Black and Green
 - French
 - Cheese
