@@ -140,6 +140,10 @@ Rename a carved pumpkin to use.
   (*Black Shulker Box*)
 - Mumbo Pringles
   (*Carved Pumpkin*)
+- Trophy
+  (*Gold Trophy*)
+- Iron Trophy
+- Copper Trophy
 
 I also make custom currency textures for:
 - Spoons & Co.
