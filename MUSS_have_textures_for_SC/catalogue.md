@@ -91,6 +91,8 @@ Capitalisation does not matter.
   (*Cookie*)
 - Moss
   (*Sweet Berries*)
+- Pizza
+  (*Bread*)
 
 ## Hats
 - Scar
@@ -106,8 +108,11 @@ Capitalisation does not matter.
   (*Scott's Empires Fedora*)
 - Post
   (*Postman's Hat*)
-- *Villager Profession Name*
 - Scarecrow
+  (*Scarecrow Head*)
+- Chef
+  (*Chef's Hat*)
+- *Villager Profession Name*
 - Bean
 
 Rename a carved pumpkin to use.
