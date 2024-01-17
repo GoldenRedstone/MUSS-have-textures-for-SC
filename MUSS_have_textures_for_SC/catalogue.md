@@ -93,6 +93,8 @@ Capitalisation does not matter.
   (*Sweet Berries*)
 - Pizza
   (*Bread*)
+- Cookie
+  (*Suspicious Stew*)
 
 ## Hats
 - Scar
