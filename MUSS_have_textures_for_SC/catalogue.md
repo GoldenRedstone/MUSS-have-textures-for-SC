@@ -220,6 +220,7 @@ I also make custom currency textures for:
 - Summer
 - TrioSalad
 - Wicky
+- Wilbur
 - *Lots of Hermits*
 
 ##
