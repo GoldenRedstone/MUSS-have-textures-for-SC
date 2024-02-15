@@ -219,7 +219,7 @@ I also make custom currency textures for:
 - Sab
 - Summer
 - TrioSalad
-- Wappie
+- Wicky
 - *Lots of Hermits*
 
 ##
