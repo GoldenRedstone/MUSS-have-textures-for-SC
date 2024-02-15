@@ -125,6 +125,12 @@ Rename a carved pumpkin to use.
 - Crusader
   (*Netherite Helmet/Boots*)
 
+## Posters
+- Hotguy
+  (*3x3*)
+- Hotguy 2
+  (*2x2*)
+
 ## Other
 - Hotguy
   (*Scar's Hotguy Bow*)
