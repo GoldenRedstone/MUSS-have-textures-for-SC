@@ -130,6 +130,8 @@ Rename a carved pumpkin to use.
   (*3x3*)
 - Hotguy 2
   (*2x2*)
+- Golden Banner
+  (*Golden Tomb Flag*)
 
 ## Other
 - Hotguy
