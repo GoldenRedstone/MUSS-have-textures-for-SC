@@ -133,6 +133,8 @@ Rename a carved pumpkin to use.
 - Golden Banner
   (*Golden Tomb Flag*)
 
+Rename a peice of paper to use.
+
 ## Other
 - Hotguy
   (*Scar's Hotguy Bow*)
@@ -151,7 +153,7 @@ Rename a carved pumpkin to use.
 - Mumbo Pringles
   (*Carved Pumpkin*)
 - Trophy
-  (*Gold Trophy*)
+  (*Carved Pumpkin*)
 - Iron Trophy
 - Copper Trophy
 
@@ -180,6 +182,8 @@ I also make custom currency textures for:
 - Star
 - Trident
 
+Add the text as lore to a book.
+
 ## Pringles
 - Green Pringles
   (*Sus Pringles*)
@@ -202,6 +206,8 @@ I also make custom currency textures for:
 - Tiny Sheriff Pringles
   (*Tiny Cheddar Cheese*)
 
+Rename a carved pumpkin to use.
+
 ## Plushies
 - Aephh
 - Baron
@@ -217,11 +223,14 @@ I also make custom currency textures for:
 - PoisonLoca
 - Rokuro
 - Sab
+- Shard
 - Summer
 - TrioSalad
 - Wicky
 - Wilbur
 - *Lots of Hermits*
+
+Rename a carved pumpkin to use.
 
 ##
 Please don't hesitate to contact me for more information or to place a request.
