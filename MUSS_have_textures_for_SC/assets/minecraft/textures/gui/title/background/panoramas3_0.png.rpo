@@ -1,0 +1,4 @@
+{
+    condition: "MUSSHaveTexturesForSC.menuPanorama =="MUSSHaveTexturesForSC.menuPanorama.seasonThreeSpawn",
+    fallback: "assets/minecraft/textures/gui/title/background/panoramasd3_0.png"
+}

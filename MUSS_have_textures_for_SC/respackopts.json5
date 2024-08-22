@@ -6,7 +6,7 @@
         menuPanorama: {
             type: "enum",
             default: "seasonThreeSpawn",
-            values: ["default", "seasonThreeSpawn", "seasonThreeSD"]
+            values: ["default", "seasonFourSpawn", "seasonThreeSpawn", "seasonThreeSD"]
         },
         menuTitle: {
             type: "enum",
