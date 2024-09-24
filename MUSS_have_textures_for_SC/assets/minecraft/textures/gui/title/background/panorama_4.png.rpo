@@ -1,4 +1,4 @@
 {
-    condition: "MUSSHaveTexturesForSC.menuPanorama =="MUSSHaveTexturesForSC.menuPanorama.seasonFourSpawn",
+    condition: "MUSSHaveTexturesForSC.menuPanorama == MUSSHaveTexturesForSC.menuPanorama.seasonFourSpawn",
     fallback: "assets/minecraft/textures/gui/title/background/panoramas3_4.png"
 }
